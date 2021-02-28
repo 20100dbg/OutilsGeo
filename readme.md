@@ -14,7 +14,9 @@ Paramètres facultatif
 - Nom du capteur
 
 L'outil calcule un point de chute pour chaque relevé.
+
 Export des relevés en KML, importable sur GlobalMapper
+
 
 
 ## ConvCoord
@@ -28,6 +30,8 @@ Prend en charge la conversion de coordonnées depuis et vers les formats :
 - MGRS
 
 
+
 ## importMassif
-Import massif de symboles personnalisés dans Global Mapper
-Génération d'une masse de points vers un fichier KML
+Import massif de symboles personnalisés dans Global Mapper.
+
+Génération d'une masse de points vers un fichier KML.
