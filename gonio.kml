@@ -16,7 +16,7 @@
 <description>Tir gonio</description>
 <Placemark>
 <name> /  / </name>
-<description><![CDATA[Tir gonio<BR><BR><B>GDH</B> = <BR><B>FRQ</B> = <BR><B>API</B> = <BR><B>AZM</B> = 110<BR><B>CAPTEUR</B> = ]]></description>
+<description><![CDATA[Tir gonio<BR><BR><B>GDH</B> = <BR><B>FRQ</B> = <BR><B>API</B> = <BR><B>AZM</B> = 110<BR><B>CAPTEUR</B> = <BR><B>GROUPE</B> = g1]]></description>
 <styleUrl>#line-</styleUrl>
 <LineString>
 <coordinates>
@@ -27,7 +27,7 @@
 </Placemark>
 <Placemark>
 <name>18/02/2021 14:06:34 /  / </name>
-<description><![CDATA[Tir gonio<BR><BR><B>GDH</B> = 18/02/2021 14:06:34<BR><B>FRQ</B> = <BR><B>API</B> = <BR><B>AZM</B> = 120<BR><B>CAPTEUR</B> = ]]></description>
+<description><![CDATA[Tir gonio<BR><BR><B>GDH</B> = 18/02/2021 14:06:34<BR><B>FRQ</B> = <BR><B>API</B> = <BR><B>AZM</B> = 120<BR><B>CAPTEUR</B> = <BR><B>GROUPE</B> = g2]]></description>
 <styleUrl>#line-bleu</styleUrl>
 <LineString>
 <coordinates>
