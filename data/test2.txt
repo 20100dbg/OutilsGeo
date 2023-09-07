@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><kml><Document>  <!-- Begin Style Definitions -->
-  <Style id="area1">
-    <LineStyle>

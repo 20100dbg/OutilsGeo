@@ -1,9 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "C:\\Users\\Marty\\Documents\\repos\\OutilsGeo\\data\\gm_all_style.geojson",
-"features": [
-{ "type": "Feature", "properties": { "PERIMETER": "7.417 km", "ENCLOSED_AREA": "3.125 sq km", "LENGTH": "2.405 km", "WIDTH": "1.304 km" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.795973952803068, 48.781282877579073 ], [ 7.81370385972648, 48.781282877579073 ], [ 7.81370385972648, 48.759652391132512 ], [ 7.795973952803068, 48.759652391132512 ], [ 7.795973952803068, 48.781282877579073 ] ] ] } },
-{ "type": "Feature", "properties": { "LENGTH": "23.107 km", "BEARING": "81° 19' 10.7\"", "SINUOSITY": "2.8861649" }, "geometry": { "type": "LineString", "coordinates": [ [ 7.80164752301856, 48.81904757932594 ], [ 7.820795822495843, 48.871528103819237 ], [ 7.844908495911683, 48.825075747679897 ], [ 7.87540393581995, 48.875251384273149 ], [ 7.909445357112899, 48.829862822549217 ] ] } },
-{ "type": "Feature", "properties": { "ELEVATION": "0" }, "geometry": { "type": "Point", "coordinates": [ 7.869907664673693, 48.792452718940822, 0.0 ] } }
-]
-}

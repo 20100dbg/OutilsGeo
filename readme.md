@@ -25,13 +25,6 @@ Prend en charge la conversion de coordonnées depuis et vers les formats :
 
 - geo décimales
 - geo degrés minutes secondes
-- lambert
 - UTM
 - MGRS
 
-
-
-## importMassif
-Import massif de symboles personnalisés dans Global Mapper.
-
-Génération d'une masse de points vers un fichier KML.

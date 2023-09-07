@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "C:\\Users\\Marty\\Documents\\repos\\OutilsGeo\\data\\gm_point_seul.geojson",
-"features": [
-{ "type": "Feature", "properties": { "ELEVATION": "0" }, "geometry": { "type": "Point", "coordinates": [ 7.869907664673693, 48.792452718940822, 0.0 ] } }
-]
-}
