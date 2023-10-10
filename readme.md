@@ -1,4 +1,4 @@
-## BDD_GONIO_V8
+## BDD_GONIO_V9
 Base de données de relevés goniométriques
 
 Paramètres obligatoires :
